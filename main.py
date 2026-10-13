@@ -1,5 +1,5 @@
 # main.py — SkyWay Airlines Management System
-# Main entry point with interactive console menu and all user operations.
+# Main entry point with interactive console menu and all user operations
 
 from database import get_connection, init_database
 from datetime import datetime
