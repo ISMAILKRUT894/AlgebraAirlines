@@ -3,7 +3,7 @@
 import re
 
 
-# ---------- Validation Functions (Using Regular Expressions) ----------
+# Validation Functions (Using Regular Expressions) 
 
 def is_valid_email(email):
     """
@@ -26,7 +26,7 @@ def is_valid_phone(phone):
     return False
 
 
-# ---------- Flight Class ----------
+# Flight Class
 
 class Flight:
     """
@@ -52,7 +52,7 @@ class Flight:
         print(f"Flight {self.flight_number} | {self.departure_city} -> {self.destination_city} | Status: {self.status} | Price: {self.base_price:,.0f} KZT")
 
 
-# ---------- Passenger Class ----------
+# Passenger Class 
 
 class Passenger:
     """
@@ -102,7 +102,7 @@ class Ticket:
         return base_price
 
 
-# ---------- Economy Ticket Subclass ----------
+# Economy Ticket Subclass 
 
 class EconomyTicket(Ticket):
     """
@@ -114,7 +114,7 @@ class EconomyTicket(Ticket):
         return round(base_price * 1.0, 2)
 
 
-# ---------- Business Ticket Subclass ----------
+# Business Ticket Subclass 
 
 class BusinessTicket(Ticket):
     """
