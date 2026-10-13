@@ -11,7 +11,7 @@ Active Booked Tickets      : 37
 Cancelled Tickets          : 4
 Total Aircraft Seats       : 2896
 Seat Occupancy Rate        : 1.28%
-Total Active Revenue       : 3,513,000.00 KZT
+Total Active Revenue       : 3,513,000.00 KZT 
 
 2. UPCOMING FLIGHT SCHEDULE (SAMPLE)
 ------------------------------------------------------------

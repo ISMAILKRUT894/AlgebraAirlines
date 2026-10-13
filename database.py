@@ -12,7 +12,7 @@ def get_connection():
     """
     Returns a connection to the SQLite database.
     Enables foreign keys and returns rows that can be accessed by column name.
-    """
+    """ 
     conn = sqlite3.connect(DB_NAME)
     conn.execute("PRAGMA foreign_keys = ON")
     conn.row_factory = sqlite3.Row
