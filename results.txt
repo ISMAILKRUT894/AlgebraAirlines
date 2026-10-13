@@ -1,0 +1,32 @@
+============================================================
+        SKYWAY AIRLINES — MANAGEMENT REPORT
+        Generated on: 2026-10-12 14:42:04
+============================================================
+
+1. SYSTEM OVERVIEW & KEY METRICS
+------------------------------------------------------------
+Total Registered Flights   : 21
+Total Registered Passengers: 50
+Active Booked Tickets      : 37
+Cancelled Tickets          : 4
+Total Aircraft Seats       : 2896
+Seat Occupancy Rate        : 1.28%
+Total Active Revenue       : 3,513,000.00 KZT
+
+2. UPCOMING FLIGHT SCHEDULE (SAMPLE)
+------------------------------------------------------------
+Flight     Route                     Departure          Status    
+------------------------------------------------------------
+KZ666      Astana -> Istanbul        2026-09-14 11:15   Completed 
+KZ158      Almaty -> Frankfurt       2026-09-20 11:00   Scheduled 
+DV883      Almaty -> Tbilisi         2026-09-26 11:30   Scheduled 
+SW539      Tbilisi -> Astana         2026-10-02 11:00   Cancelled 
+KC414      Astana -> Tbilisi         2026-10-03 11:45   Delayed   
+DV663      Astana -> Tbilisi         2026-10-04 11:15   Delayed   
+SW250      Dubai -> Almaty           2026-10-06 11:00   Scheduled 
+SW954      Tashkent -> Aktau         2026-10-14 11:45   Scheduled 
+SW497      Istanbul -> Aktau         2026-10-21 11:45   Scheduled 
+KZ138      Tbilisi -> Dubai          2026-10-22 11:00   Completed 
+
+============================================================
+End of Report
